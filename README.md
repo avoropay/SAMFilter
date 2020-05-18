@@ -33,3 +33,5 @@ void loop() {
 
 avg = filtredVoltageValue->getSAM(145.76);
 ```
+
+Referens to https://github.com/AlexGyver/tutorials
